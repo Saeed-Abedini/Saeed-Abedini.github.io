@@ -4,3 +4,6 @@
 [submodule "blog-preview-card-frontendmentor"]
 	path = blog-preview-card-frontendmentor
 	url = https://github.com/Saeed-Abedini/Blog-preview-card-frontendMentor.git
+[submodule "ip-address-tracker-frontendmentor"]
+	path = ip-address-tracker-frontendmentor
+	url = https://github.com/Saeed-Abedini/ip-address-tracker-frontendMentor.git
