@@ -1,3 +1,6 @@
 [submodule "qr-code-component-frontendMentor"]
 	path = qr-code-component-frontendMentor
 	url = https://github.com/Saeed-Abedini/QR-code-component-frontendMentor.git
+[submodule "blog-preview-card-frontendmentor"]
+	path = blog-preview-card-frontendmentor
+	url = https://github.com/Saeed-Abedini/Blog-preview-card-frontendMentor.git
